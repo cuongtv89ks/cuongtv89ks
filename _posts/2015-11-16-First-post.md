@@ -19,7 +19,7 @@ published: true
 	<figcaption>Two images.</figcaption>
 </figure>
 
-<iframe> width="560" height="315" <src="https://www.youtube.com/embed/g-jwWYX7Jlo" frameborder="0">
+<iframe width="560" height="315" <src="https://www.youtube.com/embed/g-jwWYX7Jlo" frameborder="0">
 </iframe>
 
 First of all, I created this site for my hobbits that simply writing whatever I want. At the beginning, I thought that just google blog or wordpress is enough. However there is unlimited imagine that I want (or I don't know how to set up template and theme, but if you can setup it, it looks like you have to deeply know about html, css ...). Then how about a private site, that is good idea to start with great land. This land I can learn html, css, javascrip for programing website (It is gradually important to me). For now, I am learning Linux Platform, and C program first. Also I can write about photography, guitar, Korean life, my recording for audiobook that I wanted to do for 3 months ago. 
