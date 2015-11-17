@@ -18,12 +18,12 @@ published: true
 </figure>
 
 <figure class="half">
-	<img src="http://assets.weddingwire.com/images/vendors/blogs/blog1.jpg"></a>
-</figure>
+	<img src=""></a>
+</
 
 
 <figure class="half">
-	<a href="http://placehold.it/1200x600.JPG"><img src="http://placehold.it/600x300.jpg"></a>
+	<a href="http://assets.weddingwire.com/images/vendors/blogs/blog1.jpg"><img src="http://assets.weddingwire.com/images/vendors/blogs/blog1.jpg"></a>
 	<a href="http://placehold.it/1200x600.jpeg"><img src="http://placehold.it/600x300.jpg"></a>
 	<figcaption>Two images.</figcaption>
 </figure>
