@@ -17,9 +17,17 @@ published: true
 	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
 </figure>
 
-<figure>
-	<a href=""><img src="http://assets.weddingwire.com/images/vendors/blogs/blog1.jpg"></a>
+<figure class="half">
+	<img src="http://assets.weddingwire.com/images/vendors/blogs/blog1.jpg"></a>
 </figure>
+
+
+<figure class="half">
+	<a href="http://placehold.it/1200x600.JPG"><img src="http://placehold.it/600x300.jpg"></a>
+	<a href="http://placehold.it/1200x600.jpeg"><img src="http://placehold.it/600x300.jpg"></a>
+	<figcaption>Two images.</figcaption>
+</figure>
+
 
 First of all, I created this site for my hobbits that simply writing whatever I want. At the beginning, I thought that just google blog or wordpress is enough. However there is unlimited imagine that I want (or I don't know how to set up template and theme, but if you can setup it, it looks like you have to deeply know about html, css ...). Then how about a private site, that is good idea to start with great land. This land I can learn html, css, javascrip for programing website (It is gradually important to me). For now, I am learning Linux Platform, and C program first. Also I can write about photography, guitar, Korean life, my recording for audiobook that I wanted to do for 3 months ago. 
 
