@@ -5,11 +5,16 @@ excerpt: "Say something :D"
 tag: 
   - intro
 comments: true
-image: "http://assets.weddingwire.com/images/vendors/blogs/blog1.jpg"
+image: 
+  feature: blog1.jpg
+  teaser: blog1.jpg
+  thumb: blog1.jpg
 published: true
+comments: true
 ---
 
-> By relieving the brain of all unnecessary work, a good notation sets it free to concentrate on more advanced problems, and in effect increases the mental power of the race.[...T]he  technical terms of any profession or trade are incomprehensible  to  those  who  have  never  been  trained to use them. But this is not because they are difficult in themselves. On the contrary they have invariably been introduced to make things easy. <figcaption>Alfred North Whitehead,  An Introduction to Mathematics</figcaption>
+> By relieving the brain of all unnecessary work, a good notation sets it free to concentrate on more advanced problems, and in effect increases the mental power of the race.[...T]he  technical terms of any profession or trade are incomprehensible  to  those  who  have  never  been  trained to use them. But this is not because they are difficult in themselves. On the contrary they have invariably been introduced to make things easy. 
+<figcaption>Alfred North Whitehead,  An Introduction to Mathematics</figcaption>
 
 
 
