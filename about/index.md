@@ -2,12 +2,10 @@
 layout: page
 title: About me
 tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
+modified: 2015-11-18T20:53:07.573882-04:00
 image:
   feature: sample-image-1.jpg
-  credit: 
-  creditlink: 
+comments: true
 ---
 
 ## About me
