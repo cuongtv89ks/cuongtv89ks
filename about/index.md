@@ -21,6 +21,7 @@ My name is Cuong Tran Viet  and I was born in 1989. I graduated  Electronics and
 * 2014 I got KGSP schlarship ([Korean Gorvernment Scholarship Program](http://www.niied.go.kr/eng/contents.do?contentsNo=78&menuNo=349)) for higher education. Now I am studying for master.
 
 ---
+
 ## About the blog
 
 I created this site for my hobbits that simply writing whatever I want. I can write about what I learn, my project, photography, guitar, Korean life, my recording for audiobook that I wanted to do for 3 months ago, etc. At the beginning, I thought that just google blog or wordpress is enough to me, then one of my friends recommended to me using [github](https://github.com). I realized Github and Jekyll are a good choice. Because I like the idea of writing up by markdown file in favorite text editor ([Vim](http://www.vim.org/about.php)), and of course, the speed and simplicy of having a static (through javascript powered) website on a free server rather than log in to a slower web browser (comparision with github) based interface of Wordpress or Google Blog, is hosted on free server, running PHP to dynamically creat my HTML. Furthermore, this website is my CV online. It is not only for recording my attemps, but also sharing what I know is the better way to learn. 
