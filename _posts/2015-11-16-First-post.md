@@ -8,7 +8,6 @@ comments: true
 image: blog1.jpg
 published: true
 comments: true
-featured: true
 ---
 
 > By relieving the brain of all unnecessary work, a good notation sets it free to concentrate on more advanced problems, and in effect increases the mental power of the race.[...T]he  technical terms of any profession or trade are incomprehensible  to  those  who  have  never  been  trained to use them. But this is not because they are difficult in themselves. On the contrary they have invariably been introduced to make things easy. 
