@@ -5,10 +5,7 @@ excerpt: "Say something :D"
 tag: 
   - intro
 comments: true
-image: 
-  feature: blog1.jpg
-  teaser: blog1.jpg
-  thumb: blog1.jpg
+image: blog1.jpg
 published: true
 comments: true
 ---
